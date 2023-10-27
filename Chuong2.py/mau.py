@@ -1,0 +1,1 @@
+print ("Buon ngu qua di")
